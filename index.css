@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           Pikidiary Custom Backgrounds REMASTERED
+@namespace      pikibg.remastered
+@version        r1.0
+@description    Use this if you need to use a custom background on Pikidiary
+@author         Supekiblue & Wish
+==/UserStyle== */
+
+@-moz-document domain("pikidiary.lol") {
+body, main, header {
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkVgX666_BubOqQEUhbfZGOEX0KsLvVr0pQ&s"); /* put the image url here */
+}
+}
